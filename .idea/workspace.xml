@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb6f6f15-2080-43a1-a185-b5bdacd8bfbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +25,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/aktuq/OneDrive/Masaüstü/WebSite",
+    "last_opened_file_path": "C:/Users/aktuq/OneDrive/Masaüstü/website 1.1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +45,8 @@
       <workItem from="1674065461888" duration="39000" />
       <workItem from="1674065550769" duration="21000" />
       <workItem from="1674065897016" duration="951000" />
+      <workItem from="1674066873060" duration="112000" />
+      <workItem from="1674067009150" duration="67000" />
     </task>
     <servers />
   </component>
